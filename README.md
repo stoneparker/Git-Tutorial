@@ -1,4 +1,4 @@
 # MONO
 
 - [x] ta
-- [] ok
+- [ ] ok
